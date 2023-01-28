@@ -3,4 +3,4 @@ some notes and useful links to getting Quasar + Vue3 + Chrome Extension to work 
 
 
 ## Interaction among doc + content script + background script
-(Chinese read)[https://ithelp.ithome.com.tw/articles/10187744]
+[Chinese read](https://ithelp.ithome.com.tw/articles/10187744)
